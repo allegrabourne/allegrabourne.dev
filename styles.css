@@ -219,7 +219,8 @@ h3 {
 
 h1 {
     max-width: 850px;
-    margin-bottom: 1.25rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
     font-size: clamp(2.6rem, 6vw, 5.4rem);
     letter-spacing: -0.055em;
 }
